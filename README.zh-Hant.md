@@ -1,6 +1,6 @@
 # Nyan AI – 您的貓娘風格 Chrome 助理，支援對話式任務自動化 🐾
 
-[繁中說明](README.zh-Hant.md) | [English](README.md)
+[繁中](README.zh-Hant.md) | [English](README.md)
 
 Nyan AI 是一款 **Chrome 擴充功能**，讓一位聰明可愛的 **貓娘 AI 助理** 進駐您的瀏覽器。不只是桌面寵物，Nyan AI 結合 **Live2D 動畫**、**自然語言對話** 與 **目標導向任務自動化**，幫助您完成網頁操作、搜尋資訊，甚至依照您的個人偏好進行智慧化推薦與回應。
 
