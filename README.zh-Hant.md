@@ -90,7 +90,7 @@ Nyan AI 是一款 **Chrome 擴充功能**，讓一位聰明可愛的 **貓娘 AI
 1. Clone 本專案：
 
 ```bash
-git clone https://github.com/your-username/ai-nyan-extension.git
+git clone https://github.com/nyanlien/nyan-ai.git
 ```
 
 2. 開啟 `chrome://extensions`
