@@ -8,9 +8,9 @@ Nyan AI 是一款 **Chrome 擴充功能**，讓一位聰明可愛的 **貓娘 AI
 
 **Nyan AI 不只是桌面寵物，她是一位由 Live2D 與大型語言模型（LLMs）驅動的智慧瀏覽器助理。她能展現生動的情緒、理解您的語音指令、自然地與您對話，甚至協助您完成各種瀏覽任務。**
 
-[![GitHub issues](https://img.shields.io/github/issues/your-username/ai-nyan-extension)](https://github.com/nyanlien/nyan-ai/issues)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/ai-nyan-extension)](https://github.com/nyanlien/nyan-ai/network)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/ai-nyan-extension)](https://github.com/nyanlien/nyan-ai/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/nyanlien/nyan-ai)](https://github.com/nyanlien/nyan-ai/issues)
+[![GitHub forks](https://img.shields.io/github/forks/nyanlien/nyan-ai)](https://github.com/nyanlien/nyan-ai/network)
+[![GitHub stars](https://img.shields.io/github/stars/nyanlien/nyan-ai)](https://github.com/nyanlien/nyan-ai/stargazers)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## ✨ 主要功能
