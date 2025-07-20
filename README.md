@@ -110,6 +110,14 @@ JSON-based modular definitions that customize:
 
 Visit: [https://your-website-url.com](https://your-website-url.com) <!-- Replace with your website -->
 
+## ✅ Pending Features
+
+* ❌ Long-term memory  
+* ❌ Player profiling  
+* ❌ Emotion analysis  
+* ❌ Multimodal AI  
+* ❌ Many more long-tail Nyan Cards
+
 ## 🤝 Contributing
 
 1. Fork the repository
