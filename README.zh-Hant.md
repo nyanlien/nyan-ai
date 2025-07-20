@@ -4,7 +4,7 @@
 
 Nyan AI 是一款 **Chrome 擴充功能**，讓一位聰明可愛的 **貓娘 AI 助理** 進駐您的瀏覽器。不只是桌面寵物，Nyan AI 結合 **Live2D 動畫**、**自然語言對話** 與 **目標導向任務自動化**，幫助您完成網頁操作、搜尋資訊，甚至依照您的個人偏好進行智慧化推薦與回應。
 
-![Nyan AI Banner](https://user-images.githubusercontent.com/your-username/your-repo/assets/placeholder_banner.png)
+<img width="1218" height="633" alt="Image" src="https://github.com/user-attachments/assets/d8340957-9a86-482a-8656-53fea331fd8c" />
 
 <!-- 建議您放上橫幅圖 -->
 
