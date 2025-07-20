@@ -7,9 +7,9 @@ Nyan AI is a Chrome Extension that brings a smart, interactive, and adorable cat
 
 **Nyan AI is more than just a desktop pet. She is a smart browser assistant powered by Live2D and large language models (LLMs). She can express vivid emotions, understand your voice commands, chat naturally, and even assist you with browsing tasks.**
 
-[![GitHub issues](https://img.shields.io/github/issues/your-username/ai-nyan-extension)](https://github.com/your-username/ai-nyan-extension/issues)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/ai-nyan-extension)](https://github.com/your-username/ai-nyan-extension/network)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/ai-nyan-extension)](https://github.com/your-username/ai-nyan-extension/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/nyanlien/nyan-ai)](https://github.com/nyanlien/nyan-ai/issues)
+[![GitHub forks](https://img.shields.io/github/forks/nyanlien/nyan-ai)](https://github.com/nyanlien/nyan-ai/network)
+[![GitHub stars](https://img.shields.io/github/stars/nyanlien/nyan-ai)](https://github.com/nyanlien/nyan-ai/stargazers)
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## ✨ Key Features
