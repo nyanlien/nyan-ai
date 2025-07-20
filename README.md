@@ -116,7 +116,7 @@ Visit: [https://your-website-url.com](https://your-website-url.com) <!-- Replace
 * ❌ Player profiling  
 * ❌ Emotion analysis  
 * ❌ Multimodal AI  
-* ❌ Many more long-tail Nyan Cards
+* ❌ Many more Nyan Cards
 
 ## 🤝 Contributing
 
