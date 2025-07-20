@@ -6,7 +6,6 @@ Nyan AI 是一款 **Chrome 擴充功能**，讓一位聰明可愛的 **貓娘 AI
 
 <img width="1216" height="634" alt="Image" src="https://github.com/user-attachments/assets/327eb2fd-a76c-489c-8f3d-9dfe82a57383" />
 
-<!-- 建議您放上橫幅圖 -->
 
 [![GitHub issues](https://img.shields.io/github/issues/your-username/ai-nyan-extension)](https://github.com/your-username/ai-nyan-extension/issues)
 [![GitHub forks](https://img.shields.io/github/forks/your-username/ai-nyan-extension)](https://github.com/your-username/ai-nyan-extension/network)
