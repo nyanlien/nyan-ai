@@ -126,6 +126,14 @@ git clone https://github.com/nyanlien/nyan-ai.git
 
 您可前往 [https://your-website-url.com](https://your-website-url.com) 瀏覽、創建並分享喵卡！
 
+## ✅ 待完成事項
+
+❌ 長期記憶
+❌ 玩家個人側寫
+❌ 情感分析
+❌ 多模態 AI
+❌ 更多長尾喵卡
+
 ## 🤝 貢獻方式
 
 1. Fork 本專案
