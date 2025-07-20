@@ -122,7 +122,7 @@ Visit: [https://your-website-url.com](https://your-website-url.com) <!-- Replace
 
 ## 📜 License
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT).
+Licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
 ## ❤️ Acknowledgments
 
