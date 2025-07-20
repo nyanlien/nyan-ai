@@ -36,7 +36,7 @@ Nyan AI is a Chrome Extension that brings a smart, interactive, and adorable cat
   * **Vision (OCR)**: reads and understands text from images.
   * **DOM Structure Understanding**: faster and more accurate than OCR for structured automation.
 
-* **🧩 Core Feature: Nyan Card System**:
+* **Core Feature: Nyan Card System**:
 
   * Modular expansion system using JSON "Nyan Cards" to define appearance, personality, and complex behaviors.
 
