@@ -3,7 +3,7 @@
 
 Nyan AI is a Chrome Extension that brings a smart, interactive, and adorable catgirl-style AI assistant to your browser. More than just a desktop pet, Nyan AI combines Live2D animations, natural conversation, and goal-oriented task automation to help you navigate the web, complete daily tasks, and enjoy a more personalized digital experience — all based on your unique profile and preferences.
 
-![Nyan AI Banner](https://user-images.githubusercontent.com/your-username/your-repo/assets/placeholder_banner.png)
+![Nyan AI Banner]([https://user-images.githubusercontent.com/your-username/your-repo/assets/placeholder_banner.png](https://private-user-images.githubusercontent.com/221857155/468400686-d8340957-9a86-482a-8656-53fea331fd8c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTMwMzE3NTksIm5iZiI6MTc1MzAzMTQ1OSwicGF0aCI6Ii8yMjE4NTcxNTUvNDY4NDAwNjg2LWQ4MzQwOTU3LTlhODYtNDgyYS04NjU2LTUzZmVhMzMxZmQ4Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNzIwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDcyMFQxNzEwNTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yYWNjYTUxMjNlOWViNzM2NmU1MjFmN2UxMzI0Y2IyMjEwMzNjZGYyNDlkMDhhNjA2ZGExZTI2M2JhZGM0OTQ2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.6MWLk9AnFKCShP-Tq-Ii5sHRm4SGPqK-WwRQ8ZpcVYg))
 
 <!-- We recommend you replace this link with a real project banner -->
 
