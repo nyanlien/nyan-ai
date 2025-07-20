@@ -75,7 +75,7 @@ Nyan AI is a Chrome Extension that brings a smart, interactive, and adorable cat
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ai-nyan-extension.git
+   git clone https://github.com/nyanlien/nyan-ai.git
    ```
 2. Open Chrome and go to `chrome://extensions`
 3. Enable **Developer Mode** (top right)
