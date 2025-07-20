@@ -9,7 +9,7 @@ Nyan AI 是一款 **Chrome 擴充功能**，讓一位聰明可愛的 **貓娘 AI
 [![GitHub issues](https://img.shields.io/github/issues/your-username/ai-nyan-extension)](https://github.com/your-username/ai-nyan-extension/issues)
 [![GitHub forks](https://img.shields.io/github/forks/your-username/ai-nyan-extension)](https://github.com/your-username/ai-nyan-extension/network)
 [![GitHub stars](https://img.shields.io/github/stars/your-username/ai-nyan-extension)](https://github.com/your-username/ai-nyan-extension/stargazers)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
 
 ## ✨ 主要功能
 
@@ -134,7 +134,7 @@ git clone https://github.com/your-username/ai-nyan-extension.git
 
 ## 📜 授權
 
-本專案採用 [MIT License](https://opensource.org/licenses/MIT) 授權。
+本專案採用 [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) 授權。
 
 ## ❤️ 特別感謝
 
