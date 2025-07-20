@@ -12,7 +12,7 @@ Nyan AI is a Chrome Extension that brings a smart, interactive, and adorable cat
 [![GitHub issues](https://img.shields.io/github/issues/your-username/ai-nyan-extension)](https://github.com/your-username/ai-nyan-extension/issues)
 [![GitHub forks](https://img.shields.io/github/forks/your-username/ai-nyan-extension)](https://github.com/your-username/ai-nyan-extension/network)
 [![GitHub stars](https://img.shields.io/github/stars/your-username/ai-nyan-extension)](https://github.com/your-username/ai-nyan-extension/stargazers)
-[![License: Apache-2.0](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/licenses/Apache-2.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## ✨ Key Features
 
